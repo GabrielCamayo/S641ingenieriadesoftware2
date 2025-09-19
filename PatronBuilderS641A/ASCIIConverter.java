@@ -1,17 +1,17 @@
 package PatronBuilderS641A;
-    
-public class ASCIIConverter extends Converter{
-    
-    public void makeLine(){
+
+public class ASCIIConverter extends Converter {
+
+    public void makeLine() {
         System.out.println("Linea con ASCII");
     }
 
-    public void makeParagraph(){
+    public void makeParagraph() {
         System.out.println("Parrafo con ASCII");
     }
-    
-    public void makeTable(){
+
+    public void makeTable() {
         System.out.println("Tabla con ASCII");
     }
-    
+
 }

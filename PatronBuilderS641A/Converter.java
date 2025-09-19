@@ -1,19 +1,22 @@
 package PatronBuilderS641A;
 
 public class Converter {
-    
+
     private String document;
 
-    public void makeLine(){
+    public void makeLine() {
 
     }
-    public void makeParagraph(){
+
+    public void makeParagraph() {
 
     }
-    public void makeTable(){
+
+    public void makeTable() {
 
     }
-    public String getDocument(){
+
+    public String getDocument() {
         return document;
     }
 }
